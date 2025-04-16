@@ -22,8 +22,8 @@ Microsoft Excel (Data Cleaning, Pivot Tables, Charts, Dashboard)
   <li>Replaced short forms and unclear entries with descriptive labels.
   <li>Formatted Income column to Currency for clarity.
   <li>Created a new column: Age Group, categorized as:
-   Age < 30 → Adolescents
-   Age 30–60 → Middle-aged
+   Age < 30 → Adolescents, 
+   Age 30–60 → Middle-aged, 
    Age > 60 → Old
    </ul>
 
@@ -39,18 +39,18 @@ Microsoft Excel (Data Cleaning, Pivot Tables, Charts, Dashboard)
 3.📈 Visualizations & Dashboard:
   The insights were visualized using various charts:
   <ul>
-  <li>**Column Chart**: Avg. Income by Gender per Bike Purchase</li>
-  <li>**Line Chart**: Commute Distance per Bike Purchase</li>
-  <li>**Line Chart**: Bike Purchases per Age Group</li>
-  <li>**Bar Chart**: Bike Purchases per Occupation</li>
+  <li>Column Chart</b>: Avg. Income by Gender per Bike Purchase</li>
+  <li><b>Line Chart</b>: Commute Distance per Bike Purchase</li>
+  <li><b>Line Chart</b>: Bike Purchases per Age Group</li>
+  <li><b>Bar Chart</b>: Bike Purchases per Occupation</li>
   </ul>
 
 4.🎛️ Dashboard Interactivity:
   Interactive **Slicers** were added to filter visuals and pivot tables by:
   <ul>
-  <li>**Marital Status**</li>
-  <li>**Education**</li>
-  <li>**Region**></li>
+  <li><b>Marital Status</b></li>
+  <li><b>Education</b></li>
+  <li><b>Region</b></li>
   </ul>
 
 📸 Dashboard Preview:
