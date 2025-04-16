@@ -16,34 +16,42 @@ Microsoft Excel (Data Cleaning, Pivot Tables, Charts, Dashboard)
 🪜 Project Workflow Steps:
 
 1. 🧹 Data Cleaning & Preparation:
-  -Duplicated the raw data into a worksheet for safe editing.
-  -Removed duplicate records.
-  -Replaced short forms and unclear entries with descriptive labels.
-  -Formatted Income column to Currency for clarity.
-  -Created a new column: Age Group, categorized as:
+<ul>
+  <li>Duplicated the raw data into a worksheet for safe editing.
+  <li>Removed duplicate records.
+  <li>Replaced short forms and unclear entries with descriptive labels.
+  <li>Formatted Income column to Currency for clarity.
+  <li>Created a new column: Age Group, categorized as:
    Age < 30 → Adolescents
    Age 30–60 → Middle-aged
    Age > 60 → Old
+   </ul>
 
 2.📊 Pivot Table Analysis:
   The following pivot tables were created to identify trends:
-  -Average Income by Gender and Bike Purchase
-  -Commute Distance by Bike Purchase
-  -Bike Purchases by Age Group
-  -Bike Purchases by Occupation
+  <ul>
+  <li>Average Income by Gender and Bike Purchase</li>
+  <li>Commute Distance by Bike Purchase</li>
+  <li>Bike Purchases by Age Group</li>
+  <li>Bike Purchases by Occupation</li>
+  </ul>
 
 3.📈 Visualizations & Dashboard:
   The insights were visualized using various charts:
-  -**Column Chart**: Avg. Income by Gender per Bike Purchase
-  -**Line Chart**: Commute Distance per Bike Purchase
-  -**Line Chart**: Bike Purchases per Age Group
-  -**Bar Chart**: Bike Purchases per Occupation
+  <ul>
+  <li>**Column Chart**: Avg. Income by Gender per Bike Purchase</li>
+  <li>**Line Chart**: Commute Distance per Bike Purchase</li>
+  <li>**Line Chart**: Bike Purchases per Age Group</li>
+  <li>**Bar Chart**: Bike Purchases per Occupation</li>
+  </ul>
 
 4.🎛️ Dashboard Interactivity:
   Interactive **Slicers** were added to filter visuals and pivot tables by:
-  -**Marital Status**
-  -**Education**
-  -**Region**
+  <ul>
+  <li>**Marital Status**</li>
+  <li>**Education**</li>
+  <li>**Region**></li>
+  </ul>
 
 📸 Dashboard Preview:
 https://github.com/ayush99-dotcom/Bike-Purchase-Analysis/blob/main/Bike_Purchase_Dashboard.png
