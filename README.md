@@ -9,7 +9,7 @@ bike_purchase_analysis.xlsx – Main Excel workbook, which includes 4 worrksheet
 3. **Pivot Sheet**: Summary tables for insights
 4. **Dashboard Sheet**: Visualizations and slicers for analysis
 
-🧰 Tools Used
+🧰 Tools Used:
 Microsoft Excel (Data Cleaning, Pivot Tables, Charts, Dashboard)
 
 
