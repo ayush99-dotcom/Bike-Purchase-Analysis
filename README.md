@@ -39,7 +39,7 @@ Microsoft Excel (Data Cleaning, Pivot Tables, Charts, Dashboard)
 3.📈 Visualizations & Dashboard:
   The insights were visualized using various charts:
   <ul>
-  <li>Column Chart</b>: Avg. Income by Gender per Bike Purchase</li>
+  <li><b>Column Chart</b>: Avg. Income by Gender per Bike Purchase</li>
   <li><b>Line Chart</b>: Commute Distance per Bike Purchase</li>
   <li><b>Line Chart</b>: Bike Purchases per Age Group</li>
   <li><b>Bar Chart</b>: Bike Purchases per Occupation</li>
